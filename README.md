@@ -1,10 +1,10 @@
 # Eslam Elshamy
 
-### DevOps Engineer
+**DevOps Engineer | AWS | Kubernetes | Docker | Terraform | CI/CD**
 
-DevOps Engineer focused on AWS, Kubernetes, Docker, Terraform, CI/CD, and Cloud Infrastructure.
+DevOps Engineer focused on cloud infrastructure, containerization, Kubernetes, Infrastructure as Code, and CI/CD automation.
 
-I build and automate cloud infrastructure, containerized applications, deployment pipelines, and production environments.
+I build and automate reliable deployment workflows and production environments.
 
 ---
 
@@ -34,11 +34,9 @@ Grafana • Prometheus • Loki • Trivy
 
 ### DevOps Hub — Cloud-Native DevOps Platform
 
-A hands-on DevOps platform demonstrating an end-to-end workflow from development to production.
+End-to-end DevOps platform covering containerization, Kubernetes, AWS infrastructure, CI/CD, security scanning, and observability.
 
-**Stack:**
-
-AWS • Docker • Kubernetes • K3s • Terraform • GitHub Actions • ECR • S3 • CloudFront • Cloudflare • Trivy • Grafana
+**Stack:** AWS • Docker • Kubernetes • K3s • Terraform • GitHub Actions • ECR • S3 • CloudFront • Trivy • Grafana
 
 🌐 **Live Demo:**  
 https://devops.elshamy.online
