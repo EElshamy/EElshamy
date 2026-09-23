@@ -1,16 +1,80 @@
-## Hi there 👋
+# Eslam Elshamy
 
-<!--
-**EElshamy/EElshamy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### DevOps Engineer
 
-Here are some ideas to get you started:
+DevOps Engineer focused on AWS, Kubernetes, Docker, Terraform, CI/CD, and Cloud Infrastructure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build and automate cloud infrastructure, containerized applications, deployment pipelines, and production environments.
+
+---
+
+## ⚙️ Tech Stack
+
+### Cloud
+AWS • S3 • CloudFront • ECR • ACM • IAM • Cloudflare
+
+### Containers & Orchestration
+Docker • Docker Compose • Kubernetes • K3s • K3d
+
+### Infrastructure as Code
+Terraform
+
+### CI/CD
+GitHub Actions • Bitbucket Pipelines • Jenkins
+
+### Linux & Web Infrastructure
+Linux • Nginx • DNS • SSL/TLS
+
+### Monitoring & Security
+Grafana • Prometheus • Loki • Trivy
+
+---
+
+## 🚀 Featured Projects
+
+### DevOps Hub — Cloud-Native DevOps Platform
+
+A hands-on DevOps platform demonstrating an end-to-end workflow from development to production.
+
+**Stack:**
+
+AWS • Docker • Kubernetes • K3s • Terraform • GitHub Actions • ECR • S3 • CloudFront • Cloudflare • Trivy • Grafana
+
+🌐 **Live Demo:**  
+https://devops.elshamy.online
+
+💻 **Repository:**  
+https://github.com/EElshamy/devops-platform
+
+📊 **Monitoring:**  
+https://monitoring.elshamy.online/public-dashboards/c5c8ad2648c942fc8fa4532c17b029e9
+
+---
+
+### Secure AWS CI/CD
+
+Secure CI/CD deployment using Bitbucket Pipelines, OIDC, Terraform, Amazon S3, and CloudFront.
+
+💻 **Repository:**  
+https://github.com/EElshamy/secure-aws-cicd
+
+---
+
+## 🎯 Current Focus
+
+- Kubernetes
+- AWS Cloud Infrastructure
+- Infrastructure as Code
+- CI/CD Automation
+- Cloud Security
+- Observability
+
+---
+
+## 🌐 Connect
+
+**Portfolio:**  
+https://devops.elshamy.online
+
+**LinkedIn:**  
+https://www.linkedin.com/in/eslamelshamy
